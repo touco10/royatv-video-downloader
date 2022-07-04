@@ -3,6 +3,8 @@
 go get github.com/anaskhan96/soup
 go get github.com/canhlinh/hlsdl
 go get github.com/playwright-community/playwright-go
+go install github.com/playwright-community/playwright-go/cmd/playwright
+playwright install --with-deps
 
 
 ##English
