@@ -1,5 +1,10 @@
 # royatv-video-downloader
 
+go get github.com/anaskhan96/soup
+go get github.com/canhlinh/hlsdl
+go get github.com/playwright-community/playwright-go
+
+
 ##English
 This script allows you to download Arabic series from the roya.tv site.
 the format is in .ts 1080p
