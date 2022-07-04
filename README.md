@@ -10,7 +10,7 @@
 
 
 ## English
-### This script allows you to download Arabic series from the roya.tv site.
+### This script allows you to download Arabic series from the roya.tv website.
 ### the format is in .ts 1080p
 ### On line 23 you can change the url of your series.
 ### On line 67 the receiving folder path
