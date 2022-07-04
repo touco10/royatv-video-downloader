@@ -26,7 +26,7 @@ func main() {
 	soupPage := soup.HTMLParse(parsedHtml)
 	doc := soupPage.FindAll("a")
 	for i, link := range doc {
-		fmt.Printf("get link:%v",i)
+		fmt.Printf("get link:%v\n",i)
 		if i%3 == 0 {
 			liens = append(liens, "https://roya.tv"+link.Attrs()["href"])
 		}
