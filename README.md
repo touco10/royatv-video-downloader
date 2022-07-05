@@ -1,4 +1,4 @@
-# royatv-video-downloader
+# roya tv -video-downloader
 
 ## script written in Go
 
